@@ -4,7 +4,6 @@ namespace VIN_Editor
     {
         string serial_output;
         string vin_output;
-        //string filePath = @"C:\Users\ebjer\OneDrive\Documents\S10.bin";
         string filePath = string.Empty;
 
         //serial number location
